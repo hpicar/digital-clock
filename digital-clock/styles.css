@@ -1,0 +1,17 @@
+* {
+    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BpZhKfBRitzrq0lu/plexus-style-loop-rotate-animation-cycle-white-dots-and-lines-on-the-black-background_h-thly7yg_thumbnail-full01.png');
+}
+.rainbow {
+    font-size: 100pt;
+    font-family: 'Courier New';
+    text-align: center;
+    background: black;
+    color: black;
+    width: 950px;
+    height: 145px;
+    display: inline-block;
+    margin-left: 13%;
+    margin-top: 25%;
+    border-radius: 25px;
+    border: 5px solid white;
+}
