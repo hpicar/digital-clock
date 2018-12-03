@@ -1,0 +1,38 @@
+@keyframes time {
+    0% {
+        background-color: #FE0188;
+    }
+    10% {
+        background-color: #FEAA01;
+    }
+    20% {
+        background-color: #FEF601;
+    }
+    30% {
+        background-color: #01FEAA;
+    }
+    40% {
+        background-color: #01E5FE;
+    }
+    50% {
+        background-color: #DA80F6;
+    }
+    60% {
+        background-color: #01E5FE;
+    }
+    70% {
+        background-color: #01FEAA;
+    }
+    80% {
+        background-color: #FEF601;
+    }
+    90% {
+        background-color: #FEAA01;
+    }
+    100% {
+        background-color: #FE0188;
+    }
+}
+#demo {
+ animation: time 11s infinite;
+}
